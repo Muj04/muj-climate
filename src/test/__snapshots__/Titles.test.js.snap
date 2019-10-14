@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <h1
+    class="App"
+  >
+    Weather App 
+  </h1>
+  <p>
+     Helps you find weather conditions in cities... 
+  </p>
+</div>
+`;

@@ -31,3 +31,12 @@
     transform: rotate(360deg);
   }
 }
+
+form {
+  text-align: center; 
+}
+p {
+  text-align: center; 
+}
+
+.container {border-bottom: solid;}
